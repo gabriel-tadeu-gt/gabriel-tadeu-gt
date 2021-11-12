@@ -1,0 +1,38 @@
+body{
+  background: #EDEDED;
+}
+
+header {
+  background: #6C4A4A;
+}
+
+.titulo {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #EDEDED;
+  padding: 2rem;
+}
+
+.introducao {
+  position: relative;
+  box-sizing: border-box;
+  width: 87vw;
+  margin: 2rem auto;
+  line-height: 2rem;
+  font-weight: 300;
+  padding: 1rem 3rem 6rem 3rem;
+  border: 2px solid #6C4A4A;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+  color: #6C4A4A;
+}
+
+.imagem{
+  border: 2px solid #6C4A4A;
+  width: 10vw;
+  float: right;
+  margin-left: 1rem;
+}

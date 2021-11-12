@@ -1,0 +1,23 @@
+<meta charset="UTF-8" />
+
+<script>
+  function pulaLinha() {
+    document.write("<br><br>");
+  }
+
+  function mostra(frase) {
+    document.write(frase);
+    pulaLinha();
+  }
+
+  var linhas = parseInt(prompt("Entre com a quantidade de linhas "));
+  var colunas = parseInt(prompt("Entre com a quantidade de colunas "));
+
+  for (var i = 0; i < linhas; i++){
+      for (var j = 0; j < colunas; j++){
+          document.write("*");
+      }
+      pulaLinha();
+  }
+
+</script>
