@@ -1,2 +1,2 @@
-# legendary-journey
-Aprender a usar git
+# meus-trabalhos
+Repositório pessoal para guardar meus trabalhos em geral.
