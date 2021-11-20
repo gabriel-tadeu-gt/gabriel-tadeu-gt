@@ -1,43 +1,40 @@
 ### Hi there, I'm Gabriel! 👋
-
-## I'm a computer engineering student and
+## I'm a computer engineering student and a passionate programmer
 
 -   🌱 I’m currently learning react, react native, flutter, data structures and algorithms!
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2021 Goals: Learn as much as I can.
 -   ⚡ Fun fact: I love to play guitar and competitive programming!
 
-### Connect with me:
+<div align="center">
+  <a href="https://github.com/gabriel-tadeu-gt">
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=gabriel-tadeu-gt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-tadeu-gt&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Gabriel-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="Gabriel-Numpy" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Gabriel-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 
-[<img align="left" alt="gabriel-tadeu-gonzaga-diniz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gabtgdiniz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <img align="center" alt="Gabriel-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Nvim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Python" width="26px" src="" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[instagram]: https://www.instagram.com/gabtgdiniz/
-[linkedin]: https://www.linkedin.com/in/gabriel-tadeu-gonzaga-diniz/
+  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://instagram.fgyn18-1.fna.fbcdn.net/v/t51.2885-19/s150x150/248163127_411442667044131_705784331485033447_n.jpg?_nc_ht=instagram.fgyn18-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjoJgnKg13EAX_N2K-h&edm=ABfd0MgBAAAA&ccb=7-4&oh=897a0bd9d4ee08e4efdb3c6de1295af5&oe=61A0AB77&_nc_sid=7bff83">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/gabtgdiniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-tadeu-gonzaga-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/gabriel-tadeu-gt/gabriel-tadeu-gt/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
