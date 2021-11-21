@@ -2,7 +2,7 @@
 ## I'm a computer engineering student and a passionate programmer
 
 -   🌱 I’m currently learning react, react native, flutter, data structures and algorithms!
--   👯 I’m looking to collaborate with other content creators
+-   👯 I’m looking to collaborate more in open source projects.
 -   🥅 2021 Goals: Learn as much as I can.
 -   ⚡ Fun fact: I love to play guitar and competitive programming!
 
