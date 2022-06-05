@@ -22,8 +22,6 @@
 
   <img align="center" alt="Gabriel-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://instagram.fgyn18-1.fna.fbcdn.net/v/t51.2885-19/s150x150/248163127_411442667044131_705784331485033447_n.jpg?_nc_ht=instagram.fgyn18-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjoJgnKg13EAX_N2K-h&edm=ABfd0MgBAAAA&ccb=7-4&oh=897a0bd9d4ee08e4efdb3c6de1295af5&oe=61A0AB77&_nc_sid=7bff83">
 </div>
   
   ##
