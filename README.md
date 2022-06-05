@@ -1,15 +1,12 @@
 ### Hi there, I'm Gabriel! 👋
-## I'm a computer engineering student and a passionate programmer
+## I'm a computer computer engineering student
 
--   🌱 I’m currently learning react, react native, flutter, data structures and algorithms!
+-   🌱 I’m currently learning java, flutter, data structures and algorithms!
 -   👯 I’m looking to collaborate more in open source projects.
--   🥅 2021 Goals: Learn as much as I can.
--   ⚡ Fun fact: I love to play guitar and competitive programming!
 
 <div align="center">
   <a href="https://github.com/gabriel-tadeu-gt">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-tadeu-gt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-tadeu-gt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
