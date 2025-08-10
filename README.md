@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel! 👋
-## I'm a computer computer engineering student
+## I'm a computer engineering student
 
 -   🌱 I’m currently learning data structures, algorithms and cybersecurity!
 
