@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel! 👋
 ## I'm a computer engineering student
 
--   🌱 I’m currently learning data structures, algorithms and cybersecurity!
+-   🌱 I’m currently learning data structures, algorithms, sql and data engineering / data science concepts!
 
 <div align="center">
   <a href="https://github.com/gabriel-tadeu-gt">
